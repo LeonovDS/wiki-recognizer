@@ -1,0 +1,7 @@
+jupyter==1.0.0 
+numpy
+pandas
+datasets
+scikit-learn
+gensim
+bs4
